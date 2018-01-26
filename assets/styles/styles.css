@@ -1,0 +1,57 @@
+body {
+  background-color: gray;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 980px;
+  margin: auto;
+}
+
+.full {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+
+.section {
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+  float: left;
+  width: 55%;
+  margin-right: 5px;
+  height: 210px;
+}
+
+.article {
+  background-color: gray;
+  margin: 5px;
+  padding: 10px;
+}
+
+.inside {
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.aside {
+  background-color: white;
+  width: 40%;
+  float: right;
+  text-align: center;
+  height: 210px;
+  padding:5px;
+}
+
+.footer {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 245px;
+}
